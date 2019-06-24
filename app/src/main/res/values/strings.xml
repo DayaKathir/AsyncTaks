@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AsyncTaks</string>
+    <string name="download">Download</string>
+    <string name="image_url">
+        http://conf.kln.ac.lk/scse2019/images/Site/uok_logo_png.png
+    </string>
+</resources>
